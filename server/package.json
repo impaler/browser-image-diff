@@ -1,0 +1,11 @@
+{
+  "name": "browser-image-diff",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-resemble": "*",
+    "express": "*",
+    "canvas": "*"
+  }
+}
